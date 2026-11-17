@@ -4,7 +4,8 @@
 This repository contains the R code and data for the analysis of essential oils from three *Achillea* species (*A. biebersteinii*, *A. millefolium*, and *A. nobilis*), including distribution mapping, compositional data analysis (CoDA), raincloud plots, UpSet/Venn diagrams, meta-analysis, and probit regression.
 
 **Associated Manuscript:**
-> **[Authors]. (Year). [Manuscript Title]. Journal Name, Volume(Issue), Pages. DOI: [DOI]**
+> **[Authors]. (Year). [Manuscript Title]. Journal Name, Volume(Issue), Pages. DOI: 
+> [[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24302903.svg)](https://doi.org/10.5281/zenodo.24302903)
 
 
 ## Repository Structure
@@ -108,6 +109,5 @@ Email: fazelidinan@gmail.com
 Department of Medical Entomology, Mazandaran University of Medical Sciences
 
 Zenodo DOI
-[DOI badge will be added here after Zenodo archiving]
-
+[[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24302903.svg)](https://doi.org/10.5281/zenodo.24302903)
 Last updated: 2026
